@@ -1,7 +1,7 @@
 body {
     margin: 60px auto;
     width: 70%;
-    background-image: url("/mw.jpg"); /*You will specify your image path here.*/
+    background-image:"/mw.jpg"; /*You will specify your image path here.*/
 
     -moz-background-size: cover;
     -webkit-background-size: cover;
