@@ -1,0 +1,10 @@
+---
+layout: research
+title: A brief Introduction to Quasars
+---
+<div class="blurb">
+	<h2 style="font-family:lato light;color:white">{{page.title}}</h2>
+	<p>
+  Here is going to be a brief introduction to quasars and AGN.
+  </p>
+</div><!-- /.blurb -->
