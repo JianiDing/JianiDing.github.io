@@ -2,6 +2,5 @@
 
 This is Minghao Yue's personal homepage
 
----
-yuemh.github.io
+* Link Here (yuemh.github.io)
 
