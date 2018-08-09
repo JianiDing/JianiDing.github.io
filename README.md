@@ -1,6 +1,6 @@
-## Minghao's Homepage
+## Jiani's Homepage
 
-This is Minghao Yue's personal homepage
+This is Jiani Ding's personal homepage
 
 [Link Here](https://yuemh.github.io)
 
